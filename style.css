@@ -1,0 +1,15 @@
+
+.slider-bg{
+    background-color: #FEEAE9;
+}
+
+.subscribe{
+    background-color: #FFF2F1;
+    height: 350px;
+}
+
+.buy-now-btn{
+    color: white;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
